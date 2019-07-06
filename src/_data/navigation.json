@@ -6,6 +6,10 @@
       "external": false
     },
     {
+      "text": "Blog",
+      "url": "/archive"
+    },
+    {
       "text": "GitHub",
       "url": "https://github.com/andybelldesign/hylia",
       "external": true
