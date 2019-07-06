@@ -204,4 +204,4 @@ The stuff that I need the most help with is:
 - [Webmentions](https://www.w3.org/TR/webmention/)
 - Performance
 
-[deploy-to-netlify]: https://app.netlify.com/start/deploy?repository=https://github.com/andybelldesign/hylia&stack=cms
+[deploy-to-netlify]: https://app.netlify.com/start/deploy?repository=https://github.com/nanoxd/fdp2&stack=cms
