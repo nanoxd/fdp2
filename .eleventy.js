@@ -54,6 +54,13 @@ module.exports = function(config) {
   config.addPlugin(rssPlugin);
   config.addPlugin(syntaxHighlight);
 
+  // Frontmatter, enable in eleventy 0.84.0
+  /*
+  config.setFrontMatterParsingOptions({
+    excerpt: true,
+  });
+  */
+
   return {
     dir: {
       input: 'src',
